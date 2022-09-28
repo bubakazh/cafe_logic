@@ -12,7 +12,7 @@ public class CafeUtil {
 
     double getOrderTotal(double[] itemArray){
         double sum = 0;
-        for(int i = 0; i < itemArray.length - 1; i++){
+        for(int i = 0; i < itemArray.length; i++){
             sum += itemArray[i];
         }
         return sum;
@@ -31,5 +31,6 @@ public class CafeUtil {
             System.out.println(String.format("Hello, %s!", userName));
             System.out.format("There are %d customers in front of you.", customers.size());
             customers.add(userName);
+            System.out.println(customers);
         }
 }

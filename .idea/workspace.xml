@@ -1,14 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9408b3b3-13a6-4360-abf7-4d489704d198" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CafeLogic.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TestCafe.java" afterDir="false" />
+    <list default="true" id="9408b3b3-13a6-4360-abf7-4d489704d198" name="Changes" comment="café business logic init commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CafeUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/CafeUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CafeUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CafeUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestCafe.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/TestCafe.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestCafe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TestCafe.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +37,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/troym/IdeaProjects/CafeJava&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/troym/IdeaProjects/CafeLogic&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
 }</component>
@@ -67,7 +65,18 @@
       <updated>1664307558577</updated>
       <workItem from="1664307560152" duration="7594000" />
       <workItem from="1664385156341" duration="231000" />
+      <workItem from="1664401555728" duration="84000" />
+      <workItem from="1664402871726" duration="992000" />
+      <workItem from="1664403915587" duration="548000" />
     </task>
+    <task id="LOCAL-00001" summary="café business logic init commit">
+      <created>1664401583838</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1664401583838</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -83,5 +92,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="café business logic init commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="café business logic init commit" />
   </component>
 </project>
